@@ -1,0 +1,31 @@
+.black {
+  background-color: rgb(0, 0, 0) !important;
+}
+.white {
+  height: 25px;
+  width: 25px;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgb(137, 138, 139);
+  margin: 5px;
+}
+.start {
+  background-color: rgb(83, 255, 126) !important;
+}
+.end {
+  background-color: rgb(255, 0, 0);
+}
+.visited {
+  background-color: rgb(136, 169, 240);
+}
+.backing {
+  background-color:rgb(255, 208, 0) !important;
+}
+td,
+tr {
+  padding: 0;
+  margin: 0;
+}
+
+table {
+  border-collapse: collapse;
+}
