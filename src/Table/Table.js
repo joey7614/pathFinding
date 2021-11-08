@@ -157,6 +157,7 @@ const Table = () => {
       </div>
       <div>
         <button onClick={(_) => chosenAlgo('BFS')}> BFS</button>
+        <button onClick={(_) => chosenAlgo('Dijkstra')}> Dijkstra's Algorithms</button>
       </div>
       <table>
         <tbody>
